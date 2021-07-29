@@ -1,7 +1,7 @@
 {
   "name": "toaspectratio",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A very easy way to calculate from given width and height in pixels to any other combination by applying a new pixel ratio! ",
   "main": "toAspectRatio.js",
   "bin": {
     "toAspectRatio": "cli.js"
@@ -9,6 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Caj Morgan",
+  "license": "MIT"
 }
